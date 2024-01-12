@@ -1,0 +1,1 @@
+https://huggingface.co/mlabonne/phixtral-2x2_8
